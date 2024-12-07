@@ -10,6 +10,7 @@
 ## Stats
 - Health: 33 + 12
 - Movement: 40ft
+- Armor: 17 AC
 - Base
   - STR: 12 (+1)
   - DEX: 18 (+4)
@@ -26,9 +27,8 @@
 - Athletics
 - Deception
 - Acrobatics
-- Investigation
+- Investigation (expert)
 - Perception
-- TO DO (EXPERTISE) ANY Prof
 - Saving Throw
   - Dexterity
   - Intelligence
@@ -50,7 +50,9 @@ You don't need Advantage on the attack roll if at least one of your allies is wi
 - **Steady Aim** As a Bonus Action, you give yourself Advantage on your next attack roll on the current turn. You can use this feature only if you haven't moved during this turn, and after you use it, your Speed is 0 until the end of the current turn.
 
 ### Weapons
- - TO DO
+ - **Junky +1 Dagger.** You have a +1 bonus to attack and damage rolls made with this dagger, which looks like junk. When it is used, its grip frays, its blade chips, and it flakes rust. If you get a natural 1 on an attack roll while wielding this weapon, it breaks and becomes nonmagical.
+ - **Dagger** 1d4 damage. light, finesse
+
 ### Plasmoid
 - **Amorphous.** You can squeeze through a space as narrow as 1 inch wide, provided you are wearing and carrying nothing. You have advantage on ability checks you make to initiate or escape a grapple.
 - **Darkvision.** You can see in dim light within 60 feet of yourself as if it were bright light, and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
